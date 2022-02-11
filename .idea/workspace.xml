@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9726eb53-e3bd-4777-a41b-f93eeffdedb2" name="Changes" comment="This is function return Hello with emoji" />
+    <list default="true" id="9726eb53-e3bd-4777-a41b-f93eeffdedb2" name="Changes" comment="change go.mod">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,6 +91,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="This is function return Hello with emoji" />
-    <option name="LAST_COMMIT_MESSAGE" value="This is function return Hello with emoji" />
+    <MESSAGE value="change go.mod" />
+    <option name="LAST_COMMIT_MESSAGE" value="change go.mod" />
   </component>
 </project>
